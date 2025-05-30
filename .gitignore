@@ -1,0 +1,70 @@
+# Environment Variables
+.env
+*.env.local
+
+# Compiled Files
+*.class
+*.jar
+bin/
+build/
+target/
+out/
+
+# IDE specific files
+.idea/
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+*.iml
+*.iws
+*.ipr
+.settings/
+.classpath
+.project
+.metadata
+
+# Logs
+*.log
+logs/
+
+# Package Files
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Java specific
+.mtj.tmp/
+*.ctxt
+hs_err_pid*
+replay_pid*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Maven specific
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific
+.gradle/
+build/
+
+# VS Code specific
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+*.code-workspace
+
